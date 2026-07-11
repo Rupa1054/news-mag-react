@@ -1,4 +1,4 @@
-import image from "../assets/news.png";
+import image from "../assets/News.png";
 const NewsItem = ({ title, description, src, url }) => {
   return (
     <div
